@@ -1,4 +1,4 @@
-// This Code is Wriiten by: Vivek
+
 #include <bits/stdc++.h>
 using namespace std;
 
